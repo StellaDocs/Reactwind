@@ -6,8 +6,6 @@ dashboard, or admin panel solution for upcoming web projects.
 
 With reactwind, you get access to all the necessary dashboard UI components, elements, and pages required to build a feature-rich and complete dashboard or admin panel. Whether you're building dashboard or admin panel for a complex web application or a simple website, reactwind is the perfect solution to help you get up and running quickly.
 
-### [✨ Visit Website](https://reactwind.com/)
-
 ### [🚀 Demo](https://react-demo.reactwind.com/)
 
 ___
