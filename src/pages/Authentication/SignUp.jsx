@@ -17,7 +17,7 @@ const SignUp = () => (
               <img className="dark:hidden" src={LogoDark} alt="Logo" />
             </Link>
             <p className="2xl:px-20">
-              Join our community of developers and begin your journey with Reactwind. Get access to
+              Join our community and begin your journey with Reactwind. Get access to
               premium features and support from fellow developers.
             </p>
           </div>
