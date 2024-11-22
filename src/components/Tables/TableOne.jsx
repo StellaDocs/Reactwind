@@ -45,6 +45,14 @@ const brandData = [
     sales: 390,
     conversion: 4.2,
   },
+   {
+    logo: BrandSix,
+    name: 'Instagram',
+    visitors: 4.5,
+    revenues: '6,768',
+    sales: 390,
+    conversion: 4.2,
+  },
 ];
 
 const TableOne = () => {
