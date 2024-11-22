@@ -49,8 +49,8 @@ React and Tailwind are two popular technologies that have taken the web developm
 
 
 
-## Update Logs
+## Update Logs 
 
 ### Version 1.0.0 - Initial Release - [Nov 22, 2024]
 
-- Initial release of Reactwind.
+- Initial release of Reactwind by Arpan Patra
